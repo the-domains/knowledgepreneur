@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[knowledgepreneur]]></title>
         <description><![CDATA[knowledgepreneur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/knowledgepreneur/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 15:18:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 15:20:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/knowledgepreneur/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artificial Intelligence and the future | André LeBlanc | TEDxMoncton]]></title>
+            <description><![CDATA[<article><h1>Artificial Intelligence and the future | André LeBlanc | TEDxMoncton</h1><p>This talk was given at a local TEDx event, produced independently of the TED Conferences. In his talk, Andre will explain the current and future impacts of Artificial Intelligence on industry, science, and how it will benefit and accelerate human progress.</p></article>]]></description>
+            <link>https://youtu.be/xH_B5xh42xc</link>
+            <guid isPermaLink="false">1424f6e7-9d03-4357-bb7a-e18cc525440e</guid>
+            <pubDate>Fri, 15 Jul 2016 15:19:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Humans Need Not Apply]]></title>
             <description><![CDATA[<article><h1>Humans Need Not Apply</h1><p>Discuss this video: http://www.reddit.com/r/CGPGrey/comments/2dfh5v/humans_need_not_apply/ http://www.CGPGrey.com/ https://twitter.com/cgpgrey ## Robots, Etc: Terex Port automation: http://www.terex.com/port-solutions/en/products/new-equipment/automated-guided-vehicles/lift-agv/index.htm Command | Cat MieStar System.: http://www.catminestarsystem.com/capability_sets/command Bosch Automotive Technology: http://www.bosch-automotivetechnology.com/en/de/specials/specials_for_more_driving_safety/automated_driving/automated_driving.html Atlas Update: https://www.youtube.com/watch?v=SD6Okylclb8&list=UU7vVhkEfw4nOGp8TyDk7RcQ Kiva Systems: http://www.kivasystems.com PhantomX running Phoenix code: https://www.youtube.com/watch?v=rAeQn5QnyXo iRobot, Do You: https://www.youtube.com/watch?v=da-5Uw8GBks&list=UUB6E-44uKOyRW9hX378XEyg New pharmacy robot at QEHB: https://www.youtube.com/watch?v=_Ql1ZHSkUPk Briggo Coffee Experience: http://vimeo.com/77993254 John Deere Autosteer ITEC Pro 2010.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3d3fc160fabd449f90a92190049b929/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F7Pq-S557XQU%2Fmaxresdefault.jpg"></article>]]></description>
