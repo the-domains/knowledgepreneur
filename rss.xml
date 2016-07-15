@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[knowledgepreneur]]></title>
+        <description><![CDATA[knowledgepreneur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 15:18:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humans Need Not Apply]]></title>
+            <description><![CDATA[<article><h1>Humans Need Not Apply</h1><p>Discuss this video: http://www.reddit.com/r/CGPGrey/comments/2dfh5v/humans_need_not_apply/ http://www.CGPGrey.com/ https://twitter.com/cgpgrey ## Robots, Etc: Terex Port automation: http://www.terex.com/port-solutions/en/products/new-equipment/automated-guided-vehicles/lift-agv/index.htm Command | Cat MieStar System.: http://www.catminestarsystem.com/capability_sets/command Bosch Automotive Technology: http://www.bosch-automotivetechnology.com/en/de/specials/specials_for_more_driving_safety/automated_driving/automated_driving.html Atlas Update: https://www.youtube.com/watch?v=SD6Okylclb8&list=UU7vVhkEfw4nOGp8TyDk7RcQ Kiva Systems: http://www.kivasystems.com PhantomX running Phoenix code: https://www.youtube.com/watch?v=rAeQn5QnyXo iRobot, Do You: https://www.youtube.com/watch?v=da-5Uw8GBks&list=UUB6E-44uKOyRW9hX378XEyg New pharmacy robot at QEHB: https://www.youtube.com/watch?v=_Ql1ZHSkUPk Briggo Coffee Experience: http://vimeo.com/77993254 John Deere Autosteer ITEC Pro 2010.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3d3fc160fabd449f90a92190049b929/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F7Pq-S557XQU%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/7Pq-S557XQU</link>
+            <guid isPermaLink="false">bb611716-2c68-43e6-9f13-fb8f264079bd</guid>
+            <pubDate>Fri, 15 Jul 2016 15:17:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
