@@ -6,9 +6,13 @@ color:
   saturation: 0.8975657974369824
   rhythmicContrast: 0.9218097829725593
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: knowledgepreneur
+author:
+  name: Mark Palmer
+  email: mpalmer@peoplewerx.com
+  url: www.peoplewerx.com
