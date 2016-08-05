@@ -1,18 +1,19 @@
-layout_spectrum: 0.12180499383248389
-typography_spectrum: 0.05000336957164109
+typography_spectrum: 0.9345090012066066
 color:
-  brandStrength: 0.5885367544833571
-  lightness: 0.23659930634312332
-  saturation: 0.8349831651430577
-  rhythmicContrast: 0.6859066421166062
+  brandStrength: 0.10871128807775676
+  lightness: 0.18324361904524267
+  saturation: 0.8975657974369824
+  rhythmicContrast: 0.9218097829725593
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-name: knowledgepreneur
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.6599569136742502
 author:
   name: Mark Palmer
   email: mpalmer@peoplewerx.com
   url: www.peoplewerx.com
+name: Knowledgepreneur
+title: Working Smarter - Artificial Intelligence and Productivity
