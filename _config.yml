@@ -1,16 +1,16 @@
-typography_spectrum: 0.9345090012066066
+typography_spectrum: 0.1441691005602479
 color:
-  brandStrength: 0.10871128807775676
-  lightness: 0.18324361904524267
-  saturation: 0.8975657974369824
-  rhythmicContrast: 0.9218097829725593
+  brandStrength: 0.4215458258986473
+  lightness: 0.39335649088025093
+  saturation: 0.33048087428323925
+  rhythmicContrast: 0.5698261151555926
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.6599569136742502
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.4575715004466474
 author:
   name: Mark Palmer
   email: mpalmer@peoplewerx.com
